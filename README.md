@@ -1,6 +1,6 @@
 # compose_email_input
 
-A Flutter Email Input Example application, Input Field same other Email client applications.
+A Flutter Email Input Example application, Input Field same as other Email client applications.
 
 Input Field which will convert email into chip with delete option.
 
